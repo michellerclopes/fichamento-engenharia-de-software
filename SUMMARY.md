@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [17](17.md)
-* [23](23.md)
+* [Home](README.md)
+* [Capítulo 17](17.md)
+* [Capítulo 23](23.md)
 
